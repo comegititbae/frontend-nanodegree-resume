@@ -6,11 +6,11 @@ Docs: Added a description for this project.
 
         Description:
         
-        This is an interactive resume created to satisfy the requirements for project 2, which utilises the materials and info learned           from the JS Basics and Intro to jQuery course. It is a single webpage with some interactivity, containing the following                  structure:
+        This is an interactive resume created to satisfy the requirements for project 2, which utilises the materials and info learned from the JS Basics and Intro to jQuery course. It is a single webpage with some interactivity, containing the following structure:
         
         -Heading: containing a profile pic, role, contact info, a personal message and skills at a glance
-        -Work Experience: Contains multiple instances of where I've worked, each different instance has a work title, role, dates    worked and location
-        -Projects: Lists projects completed so far, each with title, dates worked, description, and some images of them in action      with some interactivity as provided by the page
+        -Work Experience: Contains multiple instances of where I've worked, each different instance has a work title, role, dates worked and location
+        -Projects: Lists projects completed so far, each with title, dates worked, description, and some images of them in action with some interactivity as provided by the page
         -Education: List of all places where I've learned, including online classes, each with title, provider of education, major if applicable, location, and time period where it was studied.
         -Where I've Lived and Worked: Contains an interactive map courtsey of Google Maps, which marks all the places I've lived and worked. 
 
