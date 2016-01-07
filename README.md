@@ -1,3 +1,21 @@
+Feat: Created the interactive resume to satisfy the requirements for this project.
+
+Fix: Fixed a bug that was causing the canvas area which housed the map to render but not display anything, now it displays the map properly and with appropriate locations. Just ensure that you don't move the mouse around too much when in the map area, otherwise it zooms out really fast. Will fix this later if it becomes more problematic.
+
+Docs: Added a description for this project.
+
+        Description:
+        This is an interactive resume created to satisfy the requirements for project 2, which utilises the materials and info learned           from the JS Basics and Intro to jQuery course. It is a single webpage with some interactivity, containing the following                  structure:
+               -Heading: containing a profile pic, role, contact info, a personal message and skills at a glance
+               -Work Experience: Contains multiple instances of where I've worked, each different instance has a work title, role, dates                 worked and location
+               -Projects: Lists projects completed so far, each with title, dates worked, description, and some images of them in action                 with some interactivity as provided by the page
+               -Education: List of all places where I've learned, including online classes, each with title, provider of education, major                 if applicable, location, and time period where it was studied.
+               -Where I've Lived and Worked: Contains an interactive map courtsey of Google Maps, which marks all the places I've lived                  and worked. 
+
+
+From here onwards is the original readme provided by Udacity for reference.
+
+
 ## How do I complete this project?
 
 1. Go to the [Javascript Basics course](https://www.udacity.com/course/ud804) and select "View Course Materials."
